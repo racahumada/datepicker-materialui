@@ -1,3 +1,4 @@
-import DatePickerSingle from './DatePickerSingle';
 
-export { DatePickerSingle };
+import DatePickerCalendar from './DatePickerCalendar'
+
+export { DatePickerCalendar };
